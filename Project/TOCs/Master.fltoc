@@ -9,7 +9,7 @@
     Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Sample Topics/EditingMasterPage.htm" />
+    Link="/Content/EditingMasterPage.htm" />
   <TocEntry
     Title="Product A">
     <TocEntry
